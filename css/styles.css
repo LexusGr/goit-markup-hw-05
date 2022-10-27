@@ -490,6 +490,7 @@ img {
   letter-spacing: 0.03em;
   transition: color var(--transition-animation), background-color var(--transition-animation),
     box-shadow var(--transition-animation);
+  background-color: var(--secondory-background-color);
 }
 
 .filters-button:hover,
